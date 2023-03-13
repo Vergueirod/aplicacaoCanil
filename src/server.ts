@@ -1,6 +1,6 @@
 import express from 'express';
 import mustache from 'mustache-express';
-import  dotenv from 'dotenv';
+import dotenv from 'dotenv';
 import path from 'path';
 import mainRoutes from './routes/index';
 
